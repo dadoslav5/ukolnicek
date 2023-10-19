@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spravce seznamu ukolu", "spravce seznamu ukolu\spravce seznamu ukolu.csproj", "{FFB42DFF-65DC-4712-B523-3B1AA6C2908B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB42DFF-65DC-4712-B523-3B1AA6C2908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB42DFF-65DC-4712-B523-3B1AA6C2908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB42DFF-65DC-4712-B523-3B1AA6C2908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB42DFF-65DC-4712-B523-3B1AA6C2908B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5307945-7488-4FED-B883-B9BF34D9C1A7}
+	EndGlobalSection
+EndGlobal

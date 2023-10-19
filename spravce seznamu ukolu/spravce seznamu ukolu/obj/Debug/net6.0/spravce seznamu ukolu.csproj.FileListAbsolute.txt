@@ -1,0 +1,15 @@
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\bin\Debug\net6.0\spravce seznamu ukolu.exe
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\bin\Debug\net6.0\spravce seznamu ukolu.deps.json
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\bin\Debug\net6.0\spravce seznamu ukolu.runtimeconfig.json
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\bin\Debug\net6.0\spravce seznamu ukolu.dll
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\bin\Debug\net6.0\spravce seznamu ukolu.pdb
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.csproj.AssemblyReference.cache
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.AssemblyInfoInputs.cache
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.AssemblyInfo.cs
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.csproj.CoreCompileInputs.cache
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.dll
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\refint\spravce seznamu ukolu.dll
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.pdb
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\spravce seznamu ukolu.genruntimeconfig.cache
+C:\Users\daniel.vajc\source\repos\spravce seznamu ukolu\spravce seznamu ukolu\obj\Debug\net6.0\ref\spravce seznamu ukolu.dll
